@@ -91,7 +91,7 @@ export default function Page() {
 
       <section className="snap-start min-h-screen flex flex-col justify-center items-center px-6 relative z-10 text-center">
         <div className="max-w-2xl space-y-6">
-          <h2 className="text-2xl md:text-3xl font-serif text-[#d6c3a1]">Ce n’est pas un programme.</h2>
+          <h2 className="text-2xl md:text-3xl font-serif text-[#d6c3a1]">Ce n&apos;est pas un programme.</h2>
           <p>
             C’est une centrale d’amour et de lumière. Un cercle vivant où l’on chemine ensemble — intérieurement et extérieurement.<br />
             Un espace pour que ta paix intérieure se transforme en force d'action dans le monde.
